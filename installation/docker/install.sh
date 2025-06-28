@@ -5,15 +5,15 @@
 # -----------------------------
 
 POSTGRES_VERSION="15"
-PG_CONTAINER="mon_postgres"
-PG_USER="admin"
-PG_PASSWORD="admin123"
-PG_DB="mydatabase"
+PG_CONTAINER="postgres_container"
+PG_USER="postgres"
+PG_PASSWORD="admin"
+PG_DB="postgres"
 PG_PORT="5432"
 
-PGADMIN_CONTAINER="mon_pgadmin"
+PGADMIN_CONTAINER="pgadmin_container"
 PGADMIN_EMAIL="admin@admin.com"
-PGADMIN_PASSWORD="admin123"
+PGADMIN_PASSWORD="admin"
 PGADMIN_PORT="5050"
 
 # -----------------------------
