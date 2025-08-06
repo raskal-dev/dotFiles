@@ -44,7 +44,7 @@ Dans le terminal, tape :
 ```bash
 ssh -T git@github.com
 ```
-Reponse succes :
+Tu dois voir un message comme :
 ```bash
 Hi tonusername! You've successfully authenticated, but GitHub does not provide shell access.
 ```
