@@ -35,9 +35,9 @@ Copie tout le contenu affiché.
 
 Ensuite, va sur GitHub :
 
-Paramètres → SSH and GPG keys → New SSH key
+> Paramètres → SSH and GPG keys → New SSH key
 
-Colle ta clé publique dans le champ et donne-lui un nom (ex : "PC perso")
+> Colle ta clé publique dans le champ et donne-lui un nom (ex : "PC perso")
 
 ## 5. Tester la connexion SSH
 Dans le terminal, tape :
